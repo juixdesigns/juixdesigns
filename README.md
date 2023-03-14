@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @juixdesigns
-- 👀 I’m interested in creating pleasurable User Experience, Collaborating and connecting.
-- 🌱 I’m currently learning UI/UX 
-- 💞️ I’m looking to collaborate on UX projects, graphic design projects
+- 👋 Hi, I’m juixdesigns
+- 🌱 I’m a UX Designer, currently learning Front-end development. 
+- 👀 I’m interested in coding, creating pleasurable User Experience, Collaborating and connecting.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 You can reach me on juixdesigns@gmail.com, @juixdesigns on Instagram and Twitter
 
 <!---
